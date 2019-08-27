@@ -9,7 +9,7 @@ http://plugins.netbeans.org/plugin/58655/atom-dark
 >Link direto portal plugins NetBeans. ->
 http://plugins.netbeans.org/download/plugin/3689
 
-2 - Baixe e instale o esquema de cores. ->
+2 - Baixe e instale o esquema de cores baseado no tema Dracula (VSCode). ->
 Ferramentas > Opções > Fontes & Cores > Importar
 
 >Link GoogleDrive. ->
