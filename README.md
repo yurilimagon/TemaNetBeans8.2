@@ -1,4 +1,4 @@
-# temaNetBeans82
+# Tema NetBeans 8.2
 
 1 - Baixe o plugin Atom Dark
 http://plugins.netbeans.org/download/plugin/3689
