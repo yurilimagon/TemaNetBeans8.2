@@ -14,3 +14,5 @@ Ferramentas > Opções > Fontes & Cores > Importar
 
 >Link GoogleDrive. ->
 https://drive.google.com/open?id=1HAMQc7TLNXcxMJ9oxOIbwicjiB-Ei2uX
+
+Criado por: Yuri Lima Gonçalves
