@@ -13,6 +13,6 @@ http://plugins.netbeans.org/download/plugin/3689
 Ferramentas > Opções > Fontes & Cores > Importar
 
 >Link GoogleDrive. ->
-https://drive.google.com/open?id=1HAMQc7TLNXcxMJ9oxOIbwicjiB-Ei2uX
+https://drive.google.com/open?id=1yrbas4kD7yh_81VvgeEWlvkbQBiM_H0l
 
 Criado por: Yuri Lima Gonçalves
